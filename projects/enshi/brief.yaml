@@ -1,0 +1,61 @@
+project_name: "恩施阿尼白虎"
+status: "active"
+owner: "江山"
+
+identity:
+  city: "恩施州"
+  team: "恩施队"
+  primary_nickname: "阿尼白虎"
+  secondary_nicknames: ["恩施队"]
+  forbidden_terms:
+    - "默认将小土豆作为主昵称"
+    - "恩施大峡谷（涉及指定峡谷场景时优先使用屏山峡谷）"
+
+facts:
+  dates:
+    - "2026-06-27：恩施阿尼白虎远征天门"
+  venues:
+    - "天门市实验高中（夜赛）"
+  scores:
+    - "2026 楚超第15轮：0-0"
+    - "2026-04-18：恩施 1–3 荆门金龙泉"
+    - "2026-04-25：恩施 1–4 黄石"
+    - "2026-05-16：恩施 1–3 十堰武当"
+  locations:
+    - "屏山峡谷"
+    - "恩施市体育中心"
+
+creative:
+  core_theme: "山雾、白虎、远征、雨夜看台、泥地与绿茵的坚韧"
+  slogans:
+    - "客场？照闯！照闯！"
+    - "恩施！恩施！恩施！"
+  cultural_symbols:
+    - "土家文化"
+    - "巴东纤夫号子"
+    - "屏山峡谷"
+    - "雨夜看台"
+  visual_palette: ["白", "玄黑", "金", "红"]
+  visual_keywords:
+    - "电影级体育纪实"
+    - "白虎巨像"
+    - "山雾"
+    - "发光城门"
+    - "草皮与山地交界"
+  music_direction:
+    - "远征战歌"
+    - "大鼓"
+    - "群呼"
+    - "山地号子"
+  required_formats: ["3:4", "9:16", "16:9"]
+  signature_line: "词曲：江山"
+
+constraints:
+  must_include:
+    - "阿尼白虎作为主视觉身份"
+    - "恩施白的球队视觉基调"
+  must_avoid:
+    - "普通卡通虎"
+    - "错误年份、日期、赛程"
+    - "低质网红体育海报"
+  pending_confirmation: []

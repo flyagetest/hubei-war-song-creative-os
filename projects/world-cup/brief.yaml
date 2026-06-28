@@ -1,0 +1,50 @@
+project_name: "《大力神杯的年轮》"
+status: "active"
+owner: "江山"
+
+identity:
+  city: "全球足球主题"
+  team: ""
+  primary_nickname: "大力神杯的年轮"
+  secondary_nicknames: []
+  forbidden_terms: []
+
+facts:
+  dates: []
+  venues: []
+  scores: []
+  locations: []
+
+creative:
+  core_theme: "世界杯记忆、时间年轮、群体狂欢、足球史诗"
+  slogans:
+    - "哦大力神杯在发光"
+    - "在旋转"
+  cultural_symbols:
+    - "1986 马拉多纳连过五人"
+    - "2010"
+    - "2018"
+  visual_palette: ["金", "深蓝", "草地绿", "赤红"]
+  visual_keywords:
+    - "奖杯"
+    - "球场灯光"
+    - "时间年轮"
+    - "世界球迷"
+  music_direction:
+    - "Latin rock"
+    - "Brazilian samba"
+    - "Spanish guitar"
+    - "trumpets"
+    - "congas"
+    - "145 BPM"
+  required_formats: ["1:1", "9:16", "16:9"]
+  signature_line: "词曲：江山"
+
+constraints:
+  must_include:
+    - "男声主唱+啦啦队合唱"
+    - "总时长不超过3分30秒"
+  must_avoid:
+    - "姆巴佩时代开启表述"
+    - "36年等待蓝白梦圆一个时代落幕"
+  pending_confirmation: []

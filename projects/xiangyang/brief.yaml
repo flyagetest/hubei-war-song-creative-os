@@ -1,0 +1,42 @@
+project_name: "襄阳《铁打的城》"
+status: "active"
+owner: "江山"
+
+identity:
+  city: "襄阳"
+  team: "待确认"
+  primary_nickname: "待确认"
+  secondary_nicknames: []
+  forbidden_terms: []
+
+facts:
+  dates:
+    - "宣发改期：2026-05-24"
+  venues: []
+  scores: []
+  locations:
+    - "汉江"
+    - "襄阳古城墙"
+
+creative:
+  core_theme: "铁打古城、汉江、城防、战争史诗与足球硬度"
+  slogans: []
+  cultural_symbols:
+    - "汉江"
+    - "古城墙"
+    - "蒙哥铁骑"
+  visual_palette: ["铁灰", "古铜", "赤红", "暗金"]
+  visual_keywords:
+    - "史诗城墙"
+    - "战旗"
+    - "江雾"
+    - "铁甲感"
+  music_direction:
+    - "史诗战歌"
+  required_formats: ["3:4", "9:16", "16:9"]
+  signature_line: "词曲：江山"
+
+constraints:
+  must_include: ["铁打的城的坚固感"]
+  must_avoid: ["错误历史符号拼贴"]
+  pending_confirmation: []

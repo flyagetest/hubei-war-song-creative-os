@@ -1,0 +1,47 @@
+project_name: "楚人不服周"
+status: "active"
+owner: "江山"
+
+identity:
+  city: "湖北"
+  team: "楚超宇宙主视觉"
+  primary_nickname: "楚人不服周"
+  secondary_nicknames: []
+  forbidden_terms: []
+
+facts:
+  dates:
+    - "2026-04-12"
+  venues: []
+  scores: []
+  locations: []
+
+creative:
+  core_theme: "楚文化、古战场、绿茵、战鼓、集体对抗感"
+  slogans:
+    - "楚人不服周"
+  cultural_symbols:
+    - "战国简牍"
+    - "黄鹤楼"
+    - "三峡大坝"
+    - "武当山"
+    - "明显陵"
+  visual_palette: ["赤红", "古铜", "暗金", "玄黑"]
+  visual_keywords:
+    - "燃烧楚国战鼓"
+    - "16面旗帜"
+    - "绿茵×古战场"
+    - "战国简牍字体"
+  music_direction:
+    - "史诗体育战歌"
+  required_formats: ["4:3", "9:16", "1:1"]
+  signature_line: "词曲：江山"
+
+constraints:
+  must_include:
+    - "中心燃烧战鼓"
+    - "鼓身刻“不服周”"
+  must_avoid:
+    - "普通古风游戏海报"
+    - "错误时间：不得使用2024.6.22"
+  pending_confirmation: []

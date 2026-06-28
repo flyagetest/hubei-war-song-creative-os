@@ -1,0 +1,31 @@
+project_name: ""
+status: "draft"
+owner: "江山"
+
+identity:
+  city: ""
+  team: ""
+  primary_nickname: ""
+  secondary_nicknames: []
+  forbidden_terms: []
+
+facts:
+  dates: []
+  venues: []
+  scores: []
+  locations: []
+
+creative:
+  core_theme: ""
+  slogans: []
+  cultural_symbols: []
+  visual_palette: []
+  visual_keywords: []
+  music_direction: []
+  required_formats: ["3:4", "9:16", "16:9"]
+  signature_line: "词曲：江山"
+
+constraints:
+  must_include: []
+  must_avoid: []
+  pending_confirmation: []

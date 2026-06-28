@@ -1,0 +1,55 @@
+project_name: "宜昌开闸 / 开扎"
+status: "active"
+owner: "江山"
+
+identity:
+  city: "宜昌"
+  team: "待确认"
+  primary_nickname: "待确认"
+  secondary_nicknames: []
+  forbidden_terms: []
+
+facts:
+  dates: []
+  venues: []
+  scores: []
+  locations:
+    - "三峡大坝"
+    - "高峡平湖"
+    - "清江画廊"
+
+creative:
+  core_theme: "上游水势、三峡电能、山歌摇滚、开闸的压迫与释放"
+  slogans:
+    - "宜昌！开闸！"
+    - "一坝锁大江"
+    - "来电宜昌"
+    - "势不可挡"
+  cultural_symbols:
+    - "离骚"
+    - "昭君"
+    - "清江画廊"
+    - "水电之都"
+    - "三峡大坝"
+  visual_palette: ["江水蓝", "电光白", "深黑", "工业银"]
+  visual_keywords:
+    - "巨浪"
+    - "闸门"
+    - "高峡"
+    - "电力"
+    - "山歌摇滚"
+  music_direction:
+    - "山歌摇滚"
+    - "大鼓"
+    - "强群喊"
+  required_formats: ["3:4", "9:16", "16:9"]
+  signature_line: "词曲：江山"
+
+constraints:
+  must_include:
+    - "上游压迫感"
+    - "山歌气质"
+  must_avoid:
+    - "过度文雅"
+    - "全篇四字句堆砌"
+  pending_confirmation: []
