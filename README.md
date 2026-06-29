@@ -23,3 +23,8 @@
 
 示例：
 `20260627_恩施_远征天门_主海报_3x4_v01.png`
+
+## 新增总表
+- `projects/README.md`：所有城市、赛事、歌曲项目的状态索引。
+- `world/character-bible.md`：阿尼白虎、覃清岚、向长川与未来城市角色规范。
+- `world/music-style-bible.md`：曲风矩阵、节奏、口号、歌词结构与禁用表达。
